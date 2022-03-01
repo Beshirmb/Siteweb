@@ -1,0 +1,175 @@
+#logo{
+    width:268px;
+    height:68px;
+}
+.main-menu{
+    margin-top: 25px;
+}
+#about-us{
+color: #00b39b;
+
+}
+.main-menu a{
+text-decoration: none;
+color: #ababab;
+font-family: roboto,Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: 400;
+padding: 0px 9px;
+}
+.main-menu a:hover{
+    color: aquamarine;
+}
+.navbar{
+    display:flex;
+    justify-content: space-around;
+}
+.div1{
+    text-align: center;
+}
+B{
+    display: flex;
+    justify-content: center;
+}
+b{
+    color:#00b39b ;
+    font-family:roboto,Arial,sans-serif ;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.div2 p{
+    width: 350px;
+    
+}
+.services{
+    display:flex;
+    justify-content: center;
+
+
+}
+.services-card{
+    width: 300px ;
+    height: 345px;
+    border: px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    }
+    #for-patients{
+        background: #00ccb1;
+    
+    }
+    #for-doctor{
+        background:#3d83df;
+    }
+    #for-clinics{
+        background: #1b2734;
+    }
+    .brands{
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+        
+    }
+    .brands-logo{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 900px;
+        height: 108px;
+    }
+    .sectionstat{
+        background-color: #00b39b ;
+        display: flex;
+    }
+    .statdiv2{
+
+        display: flex;
+        padding-left: 375px;
+    }
+    .div1{
+        background-color: white;
+        width: 400px;
+        width: 230px ;
+    height: 250px;
+    margin: 12px;
+    padding: 10px;
+    border-radius: 3px;
+    
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 15px;
+    }
+    h2{
+        background: #fff;
+    
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    }
+    .divparent34{
+        display: flex;
+        align-content: flex-end;
+        flex-direction: column;
+        
+
+    }
+    .divparent12{
+    padding-top: 25px;
+        display: flex;
+        flex-direction: column;
+
+        
+    }
+    h1{
+        text-align: center;
+        font-family: roboto,arial,sans-serif;
+        color:#00b39b ;
+    }
+p{
+    text-align: center;
+}
+    
+.warsaw{
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+}
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+.office.btn {
+    float: right;
+}
+.allimg{
+ display: flex;
+ flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.div46{
+    display: flex;
+    justify-content: space-between;
+}
